@@ -1,0 +1,19 @@
+{
+  "name": "react-cc-aws-components",
+  "version": "0.0.0",
+  "description": "React Components for CC AWS Serverless Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "aws",
+    "components",
+    "serverless",
+    "cloutcompile"
+  ],
+  "author": "Kyle Calica",
+  "license": "ISC",
+  "dependencies": {}
+}
